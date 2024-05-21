@@ -1,0 +1,29 @@
+// for printing in JavaScript!
+// this is the keyword --> console.log(" ");
+
+console.log("Hello World");
+
+/*---------------------------------------------------*/
+
+// for commenting in JavaScript!
+// you can use this --> //
+
+// example of comments!
+
+// this is a comment!
+
+
+// or this --> /* */ --> this is for multi-line comments!
+
+//example of multi-line comment
+
+/* hey bro !! whats 
+up .. my self aniket a 
+future developer !! */
+
+/*---------------------------------------------------*/
+
+
+/* i have make a javascript learning series i also learning and share with you what i learn. So join me and let's learn together grow together.  */
+
+

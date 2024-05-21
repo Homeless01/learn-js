@@ -1,2 +1,2 @@
 # learn-js
-This is for learning JavaScript. Here is the basic keyword for printing in JavaScript. Another one is for commenting in JavaScript.
+I have make a javascript learning series i also learning and share with you what i learn. So join me and let's learn together grow together.
